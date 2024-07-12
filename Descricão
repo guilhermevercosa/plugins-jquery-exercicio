@@ -1,0 +1,21 @@
+1- Fiz um fork no repositório remoto para o meu repositório remoto;
+
+2- Clonei o repositório remoto para meu repositório local;
+
+3- Abri o projeto no meu VsCode;
+
+4- Antes mesmo de ler as dicas no README já fui alterando o id do carrosel para que funcionasse;
+
+5- Fui ler o README e já alterei a ordem que puxou o JQuery e o JQuery Plugin;
+
+6- Adicionei as mascaras #cep, #telefone e # cpf conforme o que o campo pedia e com seus devidos id;
+
+7- Adicionei placeholders as mascaras para facil entendimento do usúario;
+
+8- Adicionei "required" as principais informações do formulario visando os dados que seria preciso para entender o motivo do contato e para que a EBAC Motors pudesse retornar o contato com o usúario;
+
+9- Troquei a mensagem caso o usúario não digite o nome para 'Por favor, insira seu nome no campo';
+
+10- Adicionei um alert com o números de campos faltantes a ser preenchido;
+
+11- Organizei tirando o Script do html e separando em um arquivo externo;
